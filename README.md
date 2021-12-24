@@ -30,7 +30,7 @@ It is a one-page type site, so all the information is displayed on the same page
 <br/>  
 
 
-<img src="https://github.com/Bechir-karmeni/My-Personal-Portfolio/blob/main/img/Projet%20Multimedia%201.png?raw=true" align="center" height="400" width="" />  
+<img src="https://github.com/Bechir-karmeni/My-Personal-Portfolio/blob/main/img/Projet%20Multimedia%201.png?raw=true" align="center" height="500" width="" />  
 
 
 </td><td valign="top" width="50%">
@@ -42,7 +42,7 @@ It is a one-page type site, so all the information is displayed on the same page
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools used in this project
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
