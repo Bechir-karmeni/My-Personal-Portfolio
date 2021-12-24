@@ -75,17 +75,13 @@ Regarding the back-end, it is broken down into several pages allowing the portfo
 
 <br/>  
 
-## **<ins>Platforms :</ins>**  
-  
-✔️ Andoid
-  
-✔️Windows 
-  
-✔️ Linux 
-  
-✔️MacOS  
-  
-✔️IOs  
+##  Platforms
+
+-  [X] Andoid
+-  [X] Windows
+-  [X] linux
+-  [X] MacOS 
+-  [X] IOs
   
 
 <br/>  
@@ -103,6 +99,14 @@ Regarding the back-end, it is broken down into several pages allowing the portfo
   
   
 <br/>  
+  
+  
+  ##  Wanna Contribute? 🚀
+  You can contribute by doing one of the following:
+  - Starring the repository ⭐
+  - Forking the repository 🍴
+  - Creating an Issue ❌
+  - Creating a Pull Request ✔
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/bechirkarmeni" target="_blank" style="display: inline-block;">
