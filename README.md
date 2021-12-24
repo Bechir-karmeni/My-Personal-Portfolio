@@ -30,10 +30,7 @@ It is a one-page type site, so all the information is displayed on the same page
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github.com/Bechir-karmeni/My-Personal-Portfolio/blob/main/img/Projet%20Multimedia%201.png?raw=true" align="left" height="400" width="" />  
+<img src="https://github.com/Bechir-karmeni/My-Personal-Portfolio/blob/main/img/Projet%20Multimedia%201.png?raw=true" align="center" height="400" width="" />  
 
 
 </td><td valign="top" width="50%">
